@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am Serdar Kara and I am freshman at Bilkent University cs
+
 <!--
 **Serdark4ra/Serdark4ra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
