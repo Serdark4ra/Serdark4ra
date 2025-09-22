@@ -1,6 +1,4 @@
-### Hi there 👋
-
-I am Serdar Kara and I am a sophomore at Bilkent University cs
+### Hi
 
 ![Visitor Count](https://counter6.optistats.ovh/private/freecounterstat.php?c=xt5zr8zj7tz1lle4tzn5jpkpprw63w74)
 
